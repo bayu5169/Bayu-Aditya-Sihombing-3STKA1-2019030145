@@ -10,7 +10,7 @@ Jaringan seluler adalah suatu teknologi yang memungkinkan pengiriman dan penerim
 #### Cara kerja Jaringan Seluler
  Cara kerja jarngan telepon seluler sebagai berikut : Suara dari pengirim diterima oleh alat yang disebut microphone. Microphone mengubah gelombang suara menjadi sinyal listrik dan kemudian dipancarkan oleh ponsel ke BTS terdekat. Sinyal tersebut diterima oleh BTS dan sinyal tersebut diteruskan ke pusat telekomunikasi.
  
- #### Generasi Seluler 1G,2G,3G,4G
+#### Generasi Seluler 1G,2G,3G,4G
  1G mengacu pada generasi pertama dari teknologi seluler nirkabel (telekomunikasi seluler). Ini adalah standar telekomunikasi analog yang diperkenalkan pada 1980-an. 1G pada umumnya adalah teknologi analog dan ponsel yang memiliki daya tahan baterai yang terbatas dan kualitas suara tanpa keamanan yang besar, dan kadang-kadang akan mengalami panggilan yang terputus (dropped calls). Kecepatan maksimal dari 1G yaitu 2.4 Kbps. Ini adalah standar telekomunikasi analog dan berlanjut hingga digantikan oleh telekomunikasi digital 2G.
 
 2G: Jaringan 2G muncul pada tahun 1990-an yang menggabungkan sinyal digital ke dalam jaringan seluler. 2G adalah implementasi digital pertama dari komunikasi suara nirkabel. 2G juga memperkenalkan layanan data seluler yang aman dan mampu mengirimkan pesan teks (SMS) dan pesan multimedia (MMS). 2G juga menerapkan konsep CDMA dan GSM. Dengan konsep CDMA dan GSM itu kecepatan maksimal dari jaringan 2G bisa mencapai 50 Kbps atau 1 Mbps. Perbedaan utama antara 1G dan 2G yaitu sinyal radio yang digunakan oleh jaringan 1G adalah analog, sedangkan jaringan 2G adalah digital. 
@@ -50,7 +50,7 @@ Jaringan GSM memiliki fungsi utama yang salah satunya untuk memberikan fasilitas
  - Harga relative murah bagi konsumen
  - Kompatibilitas dengan beragam perangkat
  
- #### Kekurangan  GSM
+#### Kekurangan  GSM
  - Keamanan data yang kurang
  - Sering terjadi gangguan dalam komunikasi
  
@@ -69,18 +69,18 @@ CDMA (code division multiple access) adalah  teknologi akses jamak dimana masing
  - Fasilitas koordinasi seluruh frekuensi
  - Integrasi layanan suara, data dan video
  
- #### Kelebihan CDMA
+#### Kelebihan CDMA
  - Menggunakan metode enkripsi dengn code unik untuk proses komunikasi, sehingga lebih aman
  - Memiliki harga yang jauh lebih murah dibandingkan GSM
  - Penggunanya yang tidak sebanyak GSM, membua akses data lebih cepat
  
- #### Kekurangan CDMA
+#### Kekurangan CDMA
  - Masih ada beberapa operator CDMA yang mengalami roaming
  - Kompatibiltas handheld yang terbatas
  - Coverage area yang tidak seluas GSM
  
  
- ## Materi Pertemuan 11
+## Materi Pertemuan 11
 ### SATELIT
 
 #### Pengertian Satelit
@@ -103,7 +103,7 @@ Satelit Militer (Military Satellite)
 - Satelit Titan yakni yang mengorbit planet saturnus.
 
  
- ## Materi Pertemuan 12
+## Materi Pertemuan 12
 ### GPS
 
 #### Pengertian GPS 
@@ -115,7 +115,7 @@ Satelit GPS berputar mengelilingi bumi selama 12 jam di dalam orbit yang akurat 
 #### kegunaan GPS
 Selain menentukan arah jalan dan letak suatu lokasi, GPS juga bisa digunakan sebagai alat pemantau dan pelacak yang dapat memberikan informasi mengenai keberadaan mobil terkini. Baik dari tempat berhentinya hingga history perjalanan. Jadi Anda dengan bebas dapat melacak dan memantau perjalanan.
 
- ## Materi Pertemuan 13
+## Materi Pertemuan 13
 ### WIMAX
 
 #### Pengertian WIMAX
