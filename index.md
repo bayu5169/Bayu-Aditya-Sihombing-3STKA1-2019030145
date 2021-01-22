@@ -10,26 +10,22 @@ Jaringan seluler adalah suatu teknologi yang memungkinkan pengiriman dan penerim
 #### Cara kerja Jaringan Seluler
  Cara kerja jarngan telepon seluler sebagai berikut : Suara dari pengirim diterima oleh alat yang disebut microphone. Microphone mengubah gelombang suara menjadi sinyal listrik dan kemudian dipancarkan oleh ponsel ke BTS terdekat. Sinyal tersebut diterima oleh BTS dan sinyal tersebut diteruskan ke pusat telekomunikasi.
  
-#### Generasi Seluler 1G,2G,3G,4G
- 1G mengacu pada generasi pertama dari teknologi seluler nirkabel (telekomunikasi seluler). Ini adalah standar telekomunikasi analog yang diperkenalkan pada 1980-an. 1G pada umumnya adalah teknologi analog dan ponsel yang memiliki daya tahan baterai yang terbatas dan kualitas suara tanpa keamanan yang besar, dan kadang-kadang akan mengalami panggilan yang terputus (dropped calls). Kecepatan maksimal dari 1G yaitu 2.4 Kbps. Ini adalah standar telekomunikasi analog dan berlanjut hingga digantikan oleh telekomunikasi digital 2G.
+ #### Generasi jaringan 1G 2G 3G 4G 
+1G mengacu pada generasi pertama dari teknologi seluler nirkabel (telekomunikasi seluler). Ini adalah standar telekomunikasi analog yang diperkenalkan pada 1980-an. 1G pada umumnya adalah teknologi analog dan ponsel yang memiliki daya tahan baterai yang terbatas dan kualitas suara tanpa keamanan yang besar, dan kadang-kadang akan mengalami panggilan yang terputus (dropped calls). Kecepatan maksimal dari 1G yaitu 2.4 Kbps. Ini adalah standar telekomunikasi analog dan berlanjut hingga digantikan oleh telekomunikasi digital 2G.
 
 2G: Jaringan 2G muncul pada tahun 1990-an yang menggabungkan sinyal digital ke dalam jaringan seluler. 2G adalah implementasi digital pertama dari komunikasi suara nirkabel. 2G juga memperkenalkan layanan data seluler yang aman dan mampu mengirimkan pesan teks (SMS) dan pesan multimedia (MMS). 2G juga menerapkan konsep CDMA dan GSM. Dengan konsep CDMA dan GSM itu kecepatan maksimal dari jaringan 2G bisa mencapai 50 Kbps atau 1 Mbps. Perbedaan utama antara 1G dan 2G yaitu sinyal radio yang digunakan oleh jaringan 1G adalah analog, sedangkan jaringan 2G adalah digital. 
 
 3G: Generasi ini menetapkan standar untuk sebagian besar teknologi nirkabel yang telah kita kenal dan gunakan saat ini. Penanganan data broadband menjadi ciri khas sistem 3G dan merupakan persyaratan bagi ponsel pintar yang memproses aplikasi berat data yang terlibat dengan jejaring sosial, streaming musik dan video, dan sistem GPS. Dalam generasi yang di perkenalkan secara pada tahun 2001 ini kecepatan maksimal internet bisa mencapai 0.2 Mbps. Bahkan beberapa provider sudah bisa menggunakan kecepatan yang lebih dari itu dan bisa disebut sebagai jaringan seluler 3.5G atau 3.75G.
 
 4G: Jaringan 4G telah mulai meningkatkan data bandwidth sekitar sepuluh kali lipat dari jaringan 3G. 4G adalah teknologi yang sangat berbeda dibandingkan dengan 3G. 4G dihadirkan untuk menyediakan jaringan internet dengan kecepatan tinggi, kualitas tinggi dan kapasitas tinggi kepada pengguna namun tetap menjaga tingkat keamanan, menurunkan biaya layanan suara dan data, multimedia dan internet melalui IP. Standar yang di tawarkan dari jaringan 4G adalah kecepatan akses searching, pelayanan games, video dengan kualitas tinggi, TV-support dan masih banyak lagi. Kecepatan maksimal jaringan 4G adalah 100 Mbps atau 1 Gbps. 
-
+ 
+ 
 #### Perbedaan WiMAX dengan Wi-Fi
- -Wi-Fi umumnya bekerja pada frekuensi 2,4 GHZ (Free License) sedangkan WiMAX dengan frekuensi 2,5GHz and 3,5GHz (License).
+-Wi-Fi umumnya bekerja pada frekuensi 2,4 GHZ (Free License) sedangkan WiMAX dengan frekuensi 2,5GHz and 3,5GHz (License).
 -Wi-Fi Tidak mampu bekerja dengan sinyal pantulan dan harus bekerja tanpa halangan obyek (biasa disebut dengan istilah Line of Sight) sedangkan WiMAX mampu menjangkau jarak yang -lebih jauh, dan memiliki kemampuan untuk melewati aneka penghalang seperti gedung atau pohon.
 -Wi-Fi merupakan standar IEEE 802.11 , beroperasi pada kisaran 100 meter hingga 20 km, sedangkan WiMAX merupakan standar IEEE 802.16 bisa beroperasi pada kisaran 50 kilometer. 
 -WiMax memiliki lebih banyak fitur dibandingkan dengan WiFi, sehingga sebuah BTS dapat melayani lebih banyak user untuk akses interenet.
 -Standar WiMax memberikan koneksi tanpa memerlukan LoS, sedangkan WiFi tidak.
-
-
-
-
-5G: Jaringan 5G merupakan generasi berikutnya yang menawarkan kecepatan yang lebih dan koneksi yang jauh lebih baik daripada generasi sebelumnya baik di smartphone atau pun perangkat lainnya. 
 
 
 ## Materi Pertemuan 9
@@ -50,7 +46,7 @@ Jaringan GSM memiliki fungsi utama yang salah satunya untuk memberikan fasilitas
  - Harga relative murah bagi konsumen
  - Kompatibilitas dengan beragam perangkat
  
-#### Kekurangan  GSM
+#### Kekurangan GSM
  - Keamanan data yang kurang
  - Sering terjadi gangguan dalam komunikasi
  
@@ -103,7 +99,7 @@ Satelit Militer (Military Satellite)
 - Satelit Titan yakni yang mengorbit planet saturnus.
 
  
-## Materi Pertemuan 12
+ ## Materi Pertemuan 12
 ### GPS
 
 #### Pengertian GPS 
@@ -115,7 +111,7 @@ Satelit GPS berputar mengelilingi bumi selama 12 jam di dalam orbit yang akurat 
 #### kegunaan GPS
 Selain menentukan arah jalan dan letak suatu lokasi, GPS juga bisa digunakan sebagai alat pemantau dan pelacak yang dapat memberikan informasi mengenai keberadaan mobil terkini. Baik dari tempat berhentinya hingga history perjalanan. Jadi Anda dengan bebas dapat melacak dan memantau perjalanan.
 
-## Materi Pertemuan 13
+ ## Materi Pertemuan 13
 ### WIMAX
 
 #### Pengertian WIMAX
