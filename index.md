@@ -21,11 +21,11 @@ Jaringan seluler adalah suatu teknologi yang memungkinkan pengiriman dan penerim
  
  
 #### Perbedaan WiMAX dengan Wi-Fi
--Wi-Fi umumnya bekerja pada frekuensi 2,4 GHZ (Free License) sedangkan WiMAX dengan frekuensi 2,5GHz and 3,5GHz (License).
--Wi-Fi Tidak mampu bekerja dengan sinyal pantulan dan harus bekerja tanpa halangan obyek (biasa disebut dengan istilah Line of Sight) sedangkan WiMAX mampu menjangkau jarak yang -lebih jauh, dan memiliki kemampuan untuk melewati aneka penghalang seperti gedung atau pohon.
--Wi-Fi merupakan standar IEEE 802.11 , beroperasi pada kisaran 100 meter hingga 20 km, sedangkan WiMAX merupakan standar IEEE 802.16 bisa beroperasi pada kisaran 50 kilometer. 
--WiMax memiliki lebih banyak fitur dibandingkan dengan WiFi, sehingga sebuah BTS dapat melayani lebih banyak user untuk akses interenet.
--Standar WiMax memberikan koneksi tanpa memerlukan LoS, sedangkan WiFi tidak.
+- Wi-Fi umumnya bekerja pada frekuensi 2,4 GHZ (Free License) sedangkan WiMAX dengan frekuensi 2,5GHz and 3,5GHz (License).
+- Wi-Fi Tidak mampu bekerja dengan sinyal pantulan dan harus bekerja tanpa halangan obyek (biasa disebut dengan istilah Line of Sight) sedangkan WiMAX mampu menjangkau jarak yang -lebih jauh, dan memiliki kemampuan untuk melewati aneka penghalang seperti gedung atau pohon.
+- Wi-Fi merupakan standar IEEE 802.11 , beroperasi pada kisaran 100 meter hingga 20 km, sedangkan WiMAX merupakan standar IEEE 802.16 bisa beroperasi pada kisaran 50 kilometer. 
+- WiMax memiliki lebih banyak fitur dibandingkan dengan WiFi, sehingga sebuah BTS dapat melayani lebih banyak user untuk akses interenet.
+- Standar WiMax memberikan koneksi tanpa memerlukan LoS, sedangkan WiFi tidak.
 
 
 ## Materi Pertemuan 9
